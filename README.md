@@ -5,13 +5,13 @@ Objective: Generate sequences, in natural language and proteins, that go beyond 
 
 
 ## Data
-ACE2 250K sequences with FoldX ddG values: **GCP Link**
-SST-5 data splits: **GCP Link**
+ACE2 250K sequences with FoldX ddG values: gs://sfr-amadani-conference-data/genhance/ACE2_subdomain_ddG_data.tar.gz
+SST-5 data splits: gs://sfr-amadani-conference-data/genhance/SST5_data.tar.gz
 
 ## Models
-GENhance SST-5 (leave all positives out) - **GCP Link**
-GENhance SST-5 (keep 200 positives) - **GCP Link**
-GENhance ACE2 subdomain - **GCP Link**
+GENhance SST-5 (leave all positives out) - gs://sfr-amadani-conference-data/genhance/GENhance_model_SST5_34.tar.gz
+GENhance SST-5 (keep 200 positives) - gs://sfr-amadani-conference-data/genhance/GENhance_model_SST5_4.tar.gz
+GENhance ACE2 subdomain - gs://sfr-amadani-conference-data/genhance/GENhance_model_ACE2.tar.gz
 
 ## Code overview
 - `ACE/`: code and data for ACE2 experiments
