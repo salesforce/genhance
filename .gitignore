@@ -2,4 +2,4 @@
 !/.gitignore
 *.pyc
 *.pyo
-
+.gitignore
