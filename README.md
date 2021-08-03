@@ -3,6 +3,9 @@ Deep Extrapolation for Attribute-Enhanced Generation
 
 Objective: Generate sequences, in natural language and proteins, that go beyond the label training distribution
 
+![alt text](./genhance_fig1.png)
+
+Check out our paper [here](https://arxiv.org/abs/2107.02968)!
 
 ## Data
 ACE2 250K sequences with FoldX ddG values: [gs://sfr-amadani-conference-data/genhance/ACE2_subdomain_ddG_data.tar.gz](https://console.cloud.google.com/storage/browser/sfr-amadani-conference-data/genhance/)
